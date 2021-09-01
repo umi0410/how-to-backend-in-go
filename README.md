@@ -14,8 +14,19 @@
 
 ## 3. 웹 프레임워크를 통해 웹 애플리케이션 개발하기 (fiber 프레임워크 이용)
 
-## 4. 미들웨어와 에러핸들링
+* 블로그 글: https://umi0410.github.io/blog/golang/how-to-backend-in-go-webapp
 
-## 5. 로깅 (요청 당 로거 설정하기)
+* 코드: [webapp](webapp)
 
-## 6. 설정 관리 및 배포하기 (docker, kubernetes)
+## 4. 미들웨어
+
+* 블로그 글: https://umi0410.github.io/blog/golang/how-to-backend-in-go-middleware
+
+* 코드: [middleware](middleware)
+
+## 5. 에러 핸들링
+
+## 6. gRPC로 간단한 채팅 개발하기
+
+## 7. 설정 관리 및 배포하기 (docker, kubernetes)
+
