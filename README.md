@@ -26,6 +26,10 @@
 
 ## 5. 에러 핸들링
 
+* 블로그 글: https://umi0410.github.io/blog/golang/how-to-backend-in-go-errorhandle
+
+* 코드: [errorhandle](errorhandle)
+
 ## 6. gRPC로 간단한 채팅 개발하기
 
 ## 7. 설정 관리 및 배포하기 (docker, kubernetes)
